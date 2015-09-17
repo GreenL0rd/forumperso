@@ -1,0 +1,48 @@
+body{
+	background: url(../image/connect-wallpaper.jpg) no-repeat center center fixed;
+	background-size:  cover;
+	font-size: 16px sans-serif;
+}
+
+h1{
+	text-align: center;
+	font-size: 25px 'Playball', sans-serif;
+	font-family:  'Playball', sans-serif;
+	color: #fff;
+	border: solid 1px #222;
+	width:300px;
+	margin:0 auto;
+	background-color: rgba(0, 0, 0, 0.5);
+}
+.container1{
+	margin-top: 100px;
+}
+.container2{
+	margin:0 auto;
+	display: block;
+	width:250px;
+	margin-top: 5px;
+	padding: 10px;
+}
+input[type="password"]{
+	width:250px;
+	opacity: 0.8;
+	color: #fff;
+	background: #222;
+}
+input[type="text"]{
+	width:250px;
+	opacity: 0.8;
+	color: #fff;
+	background: #222;
+}
+input[type="submit"]{
+	display:block;
+	margin:0 auto;
+	width:100px;
+}
+a{
+	display:block;
+	margin:0 auto;
+	width:100px;
+}
